@@ -1,5 +1,5 @@
 ### Hi there 👋
-Manu Sunny here. I'm from India, living in Bangkok, currently working as an Engineering Manager @ [Agoda](https://www.agoda.com), where we’re making world travel simplified.
+Manu Sunny here. I'm an Indian, living in Bangkok, currently working as an Engineering Manager @ [Agoda](https://www.agoda.com), where we’re making world travel simplified.
 
 
 
