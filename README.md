@@ -1,5 +1,7 @@
 ### Hi there 👋
-Manu Sunny here, from India. I am an Engineering Manager, currently serving @ [Agoda](https://www.agoda.com), where we’re making world travel simplified.
+Manu Sunny here. I'm from India, living in Bangkok, currently working as an Engineering Manager @ [Agoda](https://www.agoda.com), where we’re making world travel simplified.
+
+
 
 <!--
 **manupsunny/manupsunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
